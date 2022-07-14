@@ -4,7 +4,7 @@
 ### Usage
 - Clone repo into your folder, by running the following command:
   ```bash
-    git clone https://github.com/pxakarit/hide-pid
+    git clone https://github.com/paiakarit/hide-pid
   ```
 
 - CD into the new directory you just created:
